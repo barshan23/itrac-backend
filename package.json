@@ -1,0 +1,24 @@
+{
+  "name": "itrac-backend",
+  "version": "1.0.0",
+  "description": "Idea tracker backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barshan23/itrac-backend.git"
+  },
+  "author": "Avishek Saha (barshan23@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barshan23/itrac-backend/issues"
+  },
+  "homepage": "https://github.com/barshan23/itrac-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14"
+  }
+}
